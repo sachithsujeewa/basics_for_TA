@@ -1,0 +1,13 @@
+D:\Research\Automation\Basic Programming\Basic\bin\Debug\netcoreapp3.1\Basic.exe
+D:\Research\Automation\Basic Programming\Basic\bin\Debug\netcoreapp3.1\Basic.deps.json
+D:\Research\Automation\Basic Programming\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.json
+D:\Research\Automation\Basic Programming\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.dev.json
+D:\Research\Automation\Basic Programming\Basic\bin\Debug\netcoreapp3.1\Basic.dll
+D:\Research\Automation\Basic Programming\Basic\bin\Debug\netcoreapp3.1\Basic.pdb
+D:\Research\Automation\Basic Programming\Basic\obj\Debug\netcoreapp3.1\Basic.csprojAssemblyReference.cache
+D:\Research\Automation\Basic Programming\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfoInputs.cache
+D:\Research\Automation\Basic Programming\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfo.cs
+D:\Research\Automation\Basic Programming\Basic\obj\Debug\netcoreapp3.1\Basic.csproj.CoreCompileInputs.cache
+D:\Research\Automation\Basic Programming\Basic\obj\Debug\netcoreapp3.1\Basic.dll
+D:\Research\Automation\Basic Programming\Basic\obj\Debug\netcoreapp3.1\Basic.pdb
+D:\Research\Automation\Basic Programming\Basic\obj\Debug\netcoreapp3.1\Basic.genruntimeconfig.cache
